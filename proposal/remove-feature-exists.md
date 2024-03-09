@@ -6,6 +6,7 @@ This proposal removes `feature-exists` in the built-in `sass:meta` module.
 
 ## Table of Contents
 
+## I am also working on this
 * [Background](#background)
 * [Summary](#summary)
 * [Deprecation Process](#deprecation-process)
